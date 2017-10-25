@@ -1,0 +1,19 @@
+header {
+	text-align: center;
+	font-size: 300%;
+	background-color: #6e727a;
+	color: #fff;
+}
+
+form {
+	border: 2px;
+	border-color: black;
+}
+
+button.movie {
+	margin-right: 5px;
+}
+
+button.movie:hover {
+	opacity: .5;
+}
